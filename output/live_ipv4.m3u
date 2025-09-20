@@ -1,135 +1,135 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://live.kilvn.com/epg.xml.gz","https://e.erw.cc/all.xml.gz","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="2025-09-20" tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png" group-title="更新日期",2025-09-20
 https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/广东珠江.png" group-title="广东频道" tvg-response-time="2.32",广东珠江
+#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/广东珠江.png" group-title="广东频道" tvg-response-time="3.42",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/广东卫视.png" group-title="广东频道" tvg-response-time="2.32",广东卫视
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/广东卫视.png" group-title="广东频道" tvg-response-time="3.42",广东卫视
 http://219.157.60.114:7001/rtp/225.1.4.166:1207$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/大湾区卫视.png" group-title="广东频道" tvg-response-time="2.32",大湾区卫视
+#EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/大湾区卫视.png" group-title="广东频道" tvg-response-time="3.42",大湾区卫视
 http://z.b.bkpcp.top/m.php?id=dwqws$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/深圳卫视.png" group-title="广东频道" tvg-response-time="2.32",深圳卫视
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/深圳卫视.png" group-title="广东频道" tvg-response-time="3.42",深圳卫视
 http://219.157.60.114:7001/rtp/225.1.4.90:1119$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV1.png" group-title="央视频道" tvg-response-time="2.32",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV1.png" group-title="央视频道" tvg-response-time="3.42",CCTV1
 http://www.dsk.cc/php/bfgd.php?id=cctv1&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV2.png" group-title="央视频道" tvg-response-time="2.32",CCTV2
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV2.png" group-title="央视频道" tvg-response-time="3.42",CCTV2
 http://www.dsk.cc/php/bfgd.php?id=cctv2&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV3.png" group-title="央视频道" tvg-response-time="2.32",CCTV3
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV3.png" group-title="央视频道" tvg-response-time="3.42",CCTV3
 http://www.dsk.cc/php/bfgd.php?id=cctv3&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV4.png" group-title="央视频道" tvg-response-time="2.32",CCTV4
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV4.png" group-title="央视频道" tvg-response-time="3.42",CCTV4
 http://www.dsk.cc/php/bfgd.php?id=cctv4&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV5.png" group-title="央视频道" tvg-response-time="2.32",CCTV5
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV5.png" group-title="央视频道" tvg-response-time="3.42",CCTV5
 http://www.dsk.cc/php/bfgd.php?id=cctv5&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV5+.png" group-title="央视频道" tvg-response-time="2.32",CCTV5+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV5+.png" group-title="央视频道" tvg-response-time="3.42",CCTV5+
 http://www.dsk.cc/php/bfgd.php?id=cctv5p&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV6.png" group-title="央视频道" tvg-response-time="2.32",CCTV6
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV6.png" group-title="央视频道" tvg-response-time="3.42",CCTV6
 http://www.dsk.cc/php/bfgd.php?id=cctv6&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV7.png" group-title="央视频道" tvg-response-time="2.32",CCTV7
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV7.png" group-title="央视频道" tvg-response-time="3.42",CCTV7
 http://www.dsk.cc/php/bfgd.php?id=cctv7&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV8.png" group-title="央视频道" tvg-response-time="2.32",CCTV8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV8.png" group-title="央视频道" tvg-response-time="3.42",CCTV8
 http://www.dsk.cc/php/bfgd.php?id=cctv8&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV9.png" group-title="央视频道" tvg-response-time="2.32",CCTV9
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV9.png" group-title="央视频道" tvg-response-time="3.42",CCTV9
 http://www.dsk.cc/php/bfgd.php?id=cctv9&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV10.png" group-title="央视频道" tvg-response-time="2.32",CCTV10
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV10.png" group-title="央视频道" tvg-response-time="3.42",CCTV10
 http://www.dsk.cc/php/bfgd.php?id=cctv10&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV11.png" group-title="央视频道" tvg-response-time="2.32",CCTV11
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV11.png" group-title="央视频道" tvg-response-time="3.42",CCTV11
 http://www.dsk.cc/php/bfgd.php?id=cctv11&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV12.png" group-title="央视频道" tvg-response-time="2.32",CCTV12
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV12.png" group-title="央视频道" tvg-response-time="3.42",CCTV12
 http://www.dsk.cc/php/bfgd.php?id=cctv12&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV13.png" group-title="央视频道" tvg-response-time="2.32",CCTV13
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV13.png" group-title="央视频道" tvg-response-time="3.42",CCTV13
 http://www.dsk.cc/php/bfgd.php?id=cctv13&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV14.png" group-title="央视频道" tvg-response-time="2.32",CCTV14
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV14.png" group-title="央视频道" tvg-response-time="3.42",CCTV14
 http://www.dsk.cc/php/bfgd.php?id=cctv14&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV15.png" group-title="央视频道" tvg-response-time="2.32",CCTV15
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV15.png" group-title="央视频道" tvg-response-time="3.42",CCTV15
 http://www.dsk.cc/php/bfgd.php?id=cctv15&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV16.png" group-title="央视频道" tvg-response-time="2.32",CCTV16
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV16.png" group-title="央视频道" tvg-response-time="3.42",CCTV16
 http://www.dsk.cc/php/bfgd.php?id=cctv16&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV17.png" group-title="央视频道" tvg-response-time="2.32",CCTV17
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV17.png" group-title="央视频道" tvg-response-time="3.42",CCTV17
 http://www.dsk.cc/php/bfgd.php?id=cctv17&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/山东卫视.png" group-title="卫视频道" tvg-response-time="2.32",山东卫视
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/山东卫视.png" group-title="卫视频道" tvg-response-time="3.42",山东卫视
 http://219.157.60.114:7001/rtp/225.1.4.88:1117$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/湖南卫视.png" group-title="卫视频道" tvg-response-time="2.32",湖南卫视
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/湖南卫视.png" group-title="卫视频道" tvg-response-time="3.42",湖南卫视
 http://219.157.60.114:7001/rtp/225.1.4.82:1111$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/浙江卫视.png" group-title="卫视频道" tvg-response-time="2.32",浙江卫视
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/浙江卫视.png" group-title="卫视频道" tvg-response-time="3.42",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/东方卫视.png" group-title="卫视频道" tvg-response-time="2.32",东方卫视
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/东方卫视.png" group-title="卫视频道" tvg-response-time="3.42",东方卫视
 hhttp://219.157.60.114:7001/rtp/225.1.4.85:1114$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/北京卫视.png" group-title="卫视频道" tvg-response-time="2.32",北京卫视
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/北京卫视.png" group-title="卫视频道" tvg-response-time="3.42",北京卫视
 http://219.157.60.114:7001/rtp/225.1.4.81:1110$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/江苏卫视.png" group-title="卫视频道" tvg-response-time="2.32",江苏卫视
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/江苏卫视.png" group-title="卫视频道" tvg-response-time="3.42",江苏卫视
 http://www.dsk.cc/jstv/jstv.php?id=jsws&m.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/安徽卫视.png" group-title="卫视频道" tvg-response-time="2.32",安徽卫视
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/安徽卫视.png" group-title="卫视频道" tvg-response-time="3.42",安徽卫视
 http://219.157.60.114:7001/rtp/225.1.4.87:1116$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/重庆卫视.png" group-title="卫视频道" tvg-response-time="2.32",重庆卫视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/重庆卫视.png" group-title="卫视频道" tvg-response-time="3.42",重庆卫视
 http://219.157.60.114:7001/rtp/225.1.4.157:1308$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/四川卫视.png" group-title="卫视频道" tvg-response-time="2.32",四川卫视
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/四川卫视.png" group-title="卫视频道" tvg-response-time="3.42",四川卫视
 http://219.157.60.114:7001/rtp/225.1.4.151:1306$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/广西卫视.png" group-title="卫视频道" tvg-response-time="2.32",广西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/广西卫视.png" group-title="卫视频道" tvg-response-time="3.42",广西卫视
 http://219.157.60.114:7001/rtp/225.1.4.31:1060$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/厦门卫视.png" group-title="卫视频道" tvg-response-time="2.32",厦门卫视
+#EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/厦门卫视.png" group-title="卫视频道" tvg-response-time="3.42",厦门卫视
 http://219.157.60.114:7001/rtp/225.1.4.95:1124$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/甘肃卫视.png" group-title="卫视频道" tvg-response-time="2.32",甘肃卫视
+#EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/甘肃卫视.png" group-title="卫视频道" tvg-response-time="3.42",甘肃卫视
 http://219.157.60.114:7001/rtp/225.1.4.42:1071$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/贵州卫视.png" group-title="卫视频道" tvg-response-time="2.32",贵州卫视
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/贵州卫视.png" group-title="卫视频道" tvg-response-time="3.42",贵州卫视
 http://219.157.60.114:7001/rtp/225.1.4.122:1302$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/河北卫视.png" group-title="卫视频道" tvg-response-time="2.32",河北卫视
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/河北卫视.png" group-title="卫视频道" tvg-response-time="3.42",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=fe44b6c42c2e7065c441a28de6f13955$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/河南卫视.png" group-title="卫视频道" tvg-response-time="2.32",河南卫视
+#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/河南卫视.png" group-title="卫视频道" tvg-response-time="3.42",河南卫视
 http://219.157.60.114:7001/rtp/225.1.4.98:1127$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑龙江卫视.png" group-title="卫视频道" tvg-response-time="2.32",黑龙江卫视
+#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑龙江卫视.png" group-title="卫视频道" tvg-response-time="3.42",黑龙江卫视
 http://219.157.60.114:7001/rtp/225.1.4.91:1120$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/湖北卫视.png" group-title="卫视频道" tvg-response-time="2.32",湖北卫视
+#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/湖北卫视.png" group-title="卫视频道" tvg-response-time="3.42",湖北卫视
 http://219.157.60.114:7001/rtp/225.1.4.89:1118$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/江西卫视.png" group-title="卫视频道" tvg-response-time="2.32",江西卫视
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/江西卫视.png" group-title="卫视频道" tvg-response-time="3.42",江西卫视
 http://219.157.60.114:7001/rtp/225.1.4.139:1305$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/吉林卫视.png" group-title="卫视频道" tvg-response-time="2.32",吉林卫视
+#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/吉林卫视.png" group-title="卫视频道" tvg-response-time="3.42",吉林卫视
 http://219.157.60.114:7001/rtp/225.1.4.174:1309$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/内蒙古卫视.png" group-title="卫视频道" tvg-response-time="2.32",内蒙古卫视
+#EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/内蒙古卫视.png" group-title="卫视频道" tvg-response-time="3.42",内蒙古卫视
 http://219.157.60.114:7001/rtp/225.1.4.45:1074$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/辽宁卫视.png" group-title="卫视频道" tvg-response-time="2.32",辽宁卫视
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/辽宁卫视.png" group-title="卫视频道" tvg-response-time="3.42",辽宁卫视
 http://219.157.60.114:7001/rtp/225.1.4.167:1208$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/宁夏卫视.png" group-title="卫视频道" tvg-response-time="2.32",宁夏卫视
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/宁夏卫视.png" group-title="卫视频道" tvg-response-time="3.42",宁夏卫视
 http://219.157.60.114:7001/rtp/225.1.4.43:1072$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/青海卫视.png" group-title="卫视频道" tvg-response-time="2.32",青海卫视
+#EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/青海卫视.png" group-title="卫视频道" tvg-response-time="3.42",青海卫视
 http://219.157.60.114:7001/rtp/225.1.4.44:1073$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/天津卫视.png" group-title="卫视频道" tvg-response-time="2.32",天津卫视
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/天津卫视.png" group-title="卫视频道" tvg-response-time="3.42",天津卫视
 http://219.157.60.114:7001/rtp/225.1.4.86:1115$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/海南卫视.png" group-title="卫视频道" tvg-response-time="2.32",海南卫视
+#EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/海南卫视.png" group-title="卫视频道" tvg-response-time="3.42",海南卫视
 http://219.157.60.114:7001/rtp/225.1.4.195:1310$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/新疆卫视.png" group-title="卫视频道" tvg-response-time="2.32",新疆卫视
+#EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/新疆卫视.png" group-title="卫视频道" tvg-response-time="3.42",新疆卫视
 http://219.157.60.114:7001/rtp/225.1.4.47:1076$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/云南卫视.png" group-title="卫视频道" tvg-response-time="2.32",云南卫视
+#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/云南卫视.png" group-title="卫视频道" tvg-response-time="3.42",云南卫视
 http://219.157.60.114:7001/rtp/225.1.4.152:1307$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/西藏卫视.png" group-title="卫视频道" tvg-response-time="2.32",西藏卫视
+#EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/西藏卫视.png" group-title="卫视频道" tvg-response-time="3.42",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/海峡卫视.png" group-title="卫视频道" tvg-response-time="2.32",海峡卫视
+#EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/海峡卫视.png" group-title="卫视频道" tvg-response-time="3.42",海峡卫视
 http://goo.bkpcp.top/mg/hxws$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/兵团卫视.png" group-title="卫视频道" tvg-response-time="2.32",兵团卫视
+#EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/兵团卫视.png" group-title="卫视频道" tvg-response-time="3.42",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/农林卫视.png" group-title="卫视频道" tvg-response-time="2.32",农林卫视
+#EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/农林卫视.png" group-title="卫视频道" tvg-response-time="3.42",农林卫视
 http://gxlive.snrtv.com/nlws-SD.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/三沙卫视.png" group-title="卫视频道" tvg-response-time="2.32",三沙卫视
+#EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/三沙卫视.png" group-title="卫视频道" tvg-response-time="3.42",三沙卫视
 http://219.157.60.114:7001/rtp/225.1.4.234:1280$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/延边卫视.png" group-title="卫视频道" tvg-response-time="2.32",延边卫视
+#EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/延边卫视.png" group-title="卫视频道" tvg-response-time="3.42",延边卫视
 http://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/翡翠台.png" group-title="港澳台" tvg-response-time="2.32",翡翠台
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/翡翠台.png" group-title="港澳台" tvg-response-time="3.42",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰中文.png" group-title="港澳台" tvg-response-time="2.32",凤凰中文
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰中文.png" group-title="港澳台" tvg-response-time="3.42",凤凰中文
 http://cdn.163189.xyz/live/fhzw/stream.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰资讯.png" group-title="港澳台" tvg-response-time="2.32",凤凰资讯
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰资讯.png" group-title="港澳台" tvg-response-time="3.42",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰香港.png" group-title="港澳台" tvg-response-time="2.32",凤凰香港
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰香港.png" group-title="港澳台" tvg-response-time="3.42",凤凰香港
 http://dns.yiandrive.com:15907/phenix/fhhk$IPV4•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰香港.png" group-title="港澳台" tvg-response-time="2.32",凤凰香港
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰香港" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/凤凰香港.png" group-title="港澳台" tvg-response-time="3.42",凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2$IPV4•线路2
-#EXTINF:-1 tvg-id="1" tvg-name="J2" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/J2.png" group-title="港澳台" tvg-response-time="2.32",J2
+#EXTINF:-1 tvg-id="1" tvg-name="J2" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/J2.png" group-title="港澳台" tvg-response-time="3.42",J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/明珠台.png" group-title="港澳台" tvg-response-time="2.32",明珠台
+#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/明珠台.png" group-title="港澳台" tvg-response-time="3.42",明珠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="无线新闻" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/无线新闻.png" group-title="港澳台" tvg-response-time="2.32",无线新闻
+#EXTINF:-1 tvg-id="1" tvg-name="无线新闻" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/无线新闻.png" group-title="港澳台" tvg-response-time="3.42",无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="纬来体育" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/纬来体育.png" group-title="港澳台" tvg-response-time="2.32",纬来体育
+#EXTINF:-1 tvg-id="1" tvg-name="纬来体育" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/纬来体育.png" group-title="港澳台" tvg-response-time="3.42",纬来体育
 rtmp://f13h.mine.nu/sat/tv721$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="纬来育乐" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/纬来育乐.png" group-title="港澳台" tvg-response-time="2.32",纬来育乐
+#EXTINF:-1 tvg-id="1" tvg-name="纬来育乐" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/纬来育乐.png" group-title="港澳台" tvg-response-time="3.42",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="东森超视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/东森超视.png" group-title="港澳台" tvg-response-time="2.32",东森超视
+#EXTINF:-1 tvg-id="1" tvg-name="东森超视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/东森超视.png" group-title="港澳台" tvg-response-time="3.42",东森超视
 rtmp://f13h.mine.nu/sat/tv331$IPV4
