@@ -1,5 +1,5 @@
 更新日期,#genre#
-2025-09-24,https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png
+2025-09-25,https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png
 广东频道,#genre#
 央视频道,#genre#
 卫视频道,#genre#
