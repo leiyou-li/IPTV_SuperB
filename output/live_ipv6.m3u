@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://live.kilvn.com/epg.xml.gz","https://e.erw.cc/all.xml.gz","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-01-13" tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png" group-title="更新日期",2026-01-13
+#EXTINF:-1 tvg-id="1" tvg-name="2026-01-14" tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png" group-title="更新日期",2026-01-14
 https://codeberg.org/alantang/photo/raw/branch/main/ChatGPTImage.png
