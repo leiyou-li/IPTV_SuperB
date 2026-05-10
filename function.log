@@ -1,55 +1,55 @@
-2026-05-10 16:53:09,870 - ERROR - url: http://aktv.space/live.m3u 失败❌, Error: HTTPConnectionPool(host='aktv.space', port=80): Max retries exceeded with url: /live.m3u (Caused by NameResolutionError("HTTPConnection(host='aktv.space', port=80): Failed to resolve 'aktv.space' ([Errno -2] Name or service not known)"))
-2026-05-10 16:53:10,974 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/main/output/result.m3u 成功，判断为txt格式，响应时间: 1.10 秒
-2026-05-10 16:53:11,325 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/auto-iptv/main/live_ipv4.txt 成功，判断为txt格式，响应时间: 0.35 秒
-2026-05-10 16:53:12,231 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt 成功，判断为txt格式，响应时间: 0.90 秒
-2026-05-10 16:53:12,515 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 成功，判断为txt格式，响应时间: 0.28 秒
-2026-05-10 16:53:12,833 - INFO - url: https://live.zbds.top/tv/iptv4.txt 成功，判断为txt格式，响应时间: 0.32 秒
-2026-05-10 16:53:12,837 - INFO - url: https://live.zbds.top/tv/iptv4.txt 成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2026-05-10 16:53:15,768 - ERROR - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 失败❌, Error: 451 Client Error: Unavailable For Legal Reasons for url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
-2026-05-10 16:53:16,234 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959 成功，判断为txt格式，响应时间: 0.46 秒
-2026-05-10 16:53:16,842 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u 成功，判断为txt格式，响应时间: 0.61 秒
-2026-05-10 16:53:17,339 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404 Client Error: Not Found for url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u
-2026-05-10 16:53:17,912 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u 成功，判断为txt格式，响应时间: 0.57 秒
-2026-05-10 16:53:18,801 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 成功，判断为txt格式，响应时间: 0.89 秒
-2026-05-10 16:53:19,151 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u 成功，判断为txt格式，响应时间: 0.35 秒
-2026-05-10 16:53:19,871 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt 成功，判断为txt格式，响应时间: 0.72 秒
-2026-05-10 16:53:20,769 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt 成功，判断为txt格式，响应时间: 0.90 秒
-2026-05-10 16:53:21,489 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u 成功，判断为txt格式，响应时间: 0.72 秒
-2026-05-10 16:53:22,118 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 成功，判断为txt格式，响应时间: 0.63 秒
-2026-05-10 16:53:22,940 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u 成功，判断为txt格式，响应时间: 0.82 秒
-2026-05-10 16:53:23,231 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 成功，判断为txt格式，响应时间: 0.29 秒
-2026-05-10 16:53:24,026 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u 成功，判断为txt格式，响应时间: 0.79 秒
-2026-05-10 16:53:24,745 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u 成功，判断为txt格式，响应时间: 0.72 秒
-2026-05-10 16:53:25,183 - INFO - url: https://live.zbds.top/tv/iptv6.txt 成功，判断为txt格式，响应时间: 0.44 秒
-2026-05-10 16:53:25,184 - INFO - url: https://live.zbds.top/tv/iptv6.txt 成功，包含频道分类: 更新时间
-2026-05-10 16:53:26,460 - INFO - url: http://xhztv.top/new.txt 成功，判断为txt格式，响应时间: 1.27 秒
-2026-05-10 16:53:26,465 - INFO - url: http://xhztv.top/new.txt 成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2026-05-10 16:53:27,345 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt 成功，判断为txt格式，响应时间: 0.88 秒
-2026-05-10 16:53:28,191 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 成功，判断为txt格式，响应时间: 0.85 秒
-2026-05-10 16:53:28,395 - INFO - url: https://live.fanmingming.cn/tv/m3u/ipv6.m3u 成功，判断为m3u格式，响应时间: 0.20 秒
-2026-05-10 16:53:28,839 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 成功，判断为txt格式，响应时间: 0.44 秒
-2026-05-10 16:53:28,839 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 成功，包含频道分类: 更新时间
-2026-05-10 16:53:29,072 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 成功，判断为m3u格式，响应时间: 0.23 秒
-2026-05-10 16:53:29,609 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt 成功，判断为txt格式，响应时间: 0.54 秒
-2026-05-10 16:53:29,965 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 成功，判断为txt格式，响应时间: 0.36 秒
-2026-05-10 16:53:30,829 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 成功，判断为m3u格式，响应时间: 0.86 秒
-2026-05-10 16:53:31,518 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8 成功，判断为txt格式，响应时间: 0.69 秒
-2026-05-10 16:53:36,677 - ERROR - url: https://tv.youdu.fan:666/live/ 失败❌, Error: HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: /live/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7fd45475e0b0>, 'Connection to tv.youdu.fan timed out. (connect timeout=5)'))
-2026-05-10 16:53:36,813 - INFO - url: https://m3u.ibert.me/txt/o_cn.txt 成功，判断为txt格式，响应时间: 0.14 秒
-2026-05-10 16:53:36,814 - INFO - url: https://m3u.ibert.me/txt/o_cn.txt 成功，包含频道分类: Religious, News, Undefined, Kids, Education;Science, General, Sports, Documentary, Education, Entertainment, Movies, Animation;Kids, Business, Lifestyle, Education;Lifestyle;Science, Comedy, Culture, Kids;Lifestyle, Culture;Education, Outdoor, General;News, Shop, Weather, Family, Science, Legislative
-2026-05-10 16:53:36,852 - INFO - url: https://m3u.ibert.me/txt/j_iptv.txt 成功，判断为txt格式，响应时间: 0.04 秒
-2026-05-10 16:53:37,700 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt 成功，判断为txt格式，响应时间: 0.85 秒
-2026-05-10 16:53:38,537 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt 成功，判断为txt格式，响应时间: 0.84 秒
-2026-05-10 16:53:39,369 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u 成功，判断为txt格式，响应时间: 0.83 秒
-2026-05-10 16:53:39,651 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u 成功，判断为txt格式，响应时间: 0.28 秒
-2026-05-10 16:53:40,585 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u 成功，判断为txt格式，响应时间: 0.93 秒
-2026-05-10 16:53:40,870 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 成功，判断为txt格式，响应时间: 0.28 秒
-2026-05-10 16:53:41,653 - INFO - url: https://iptv.b2og.com/txt/fmml_ipv6.txt 成功，判断为txt格式，响应时间: 0.78 秒
-2026-05-10 16:53:41,654 - INFO - url: https://iptv.b2og.com/txt/fmml_ipv6.txt 成功，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
-2026-05-10 16:53:42,726 - ERROR - url: http://xhztv.top/zbc.txt 失败❌, Error: 404 Client Error: Not Found for url: http://xhztv.top/zbc.txt
-2026-05-10 16:53:43,355 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output_simple.txt 成功，判断为txt格式，响应时间: 0.63 秒
-2026-05-10 16:53:44,074 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/黑龙江PLTV移动CDN版.txt 成功，判断为txt格式，响应时间: 0.72 秒
-2026-05-10 16:53:44,890 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt 成功，判断为txt格式，响应时间: 0.81 秒
-2026-05-10 16:53:45,176 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u 成功，判断为txt格式，响应时间: 0.29 秒
-2026-05-10 16:53:45,260 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 成功，判断为txt格式，响应时间: 0.08 秒
-2026-05-10 16:53:45,263 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2026-05-11 00:59:11,201 - ERROR - url: http://aktv.space/live.m3u 失败❌, Error: HTTPConnectionPool(host='aktv.space', port=80): Max retries exceeded with url: /live.m3u (Caused by NameResolutionError("HTTPConnection(host='aktv.space', port=80): Failed to resolve 'aktv.space' ([Errno -2] Name or service not known)"))
+2026-05-11 00:59:12,381 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/main/output/result.m3u 成功，判断为txt格式，响应时间: 1.18 秒
+2026-05-11 00:59:13,466 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/auto-iptv/main/live_ipv4.txt 成功，判断为txt格式，响应时间: 1.08 秒
+2026-05-11 00:59:15,064 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt 成功，判断为txt格式，响应时间: 1.60 秒
+2026-05-11 00:59:15,696 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 成功，判断为txt格式，响应时间: 0.63 秒
+2026-05-11 00:59:17,773 - INFO - url: https://live.zbds.top/tv/iptv4.txt 成功，判断为txt格式，响应时间: 2.08 秒
+2026-05-11 00:59:17,777 - INFO - url: https://live.zbds.top/tv/iptv4.txt 成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2026-05-11 00:59:20,710 - ERROR - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 失败❌, Error: 451 Client Error: Unavailable For Legal Reasons for url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
+2026-05-11 00:59:21,854 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959 成功，判断为txt格式，响应时间: 1.14 秒
+2026-05-11 00:59:22,564 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u 成功，判断为txt格式，响应时间: 0.71 秒
+2026-05-11 00:59:22,920 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404 Client Error: Not Found for url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u
+2026-05-11 00:59:23,261 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u 成功，判断为txt格式，响应时间: 0.34 秒
+2026-05-11 00:59:23,983 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 成功，判断为txt格式，响应时间: 0.72 秒
+2026-05-11 00:59:24,562 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u 成功，判断为txt格式，响应时间: 0.58 秒
+2026-05-11 00:59:24,956 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt 成功，判断为txt格式，响应时间: 0.39 秒
+2026-05-11 00:59:25,615 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt 成功，判断为txt格式，响应时间: 0.66 秒
+2026-05-11 00:59:26,535 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u 成功，判断为txt格式，响应时间: 0.92 秒
+2026-05-11 00:59:27,394 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 成功，判断为txt格式，响应时间: 0.86 秒
+2026-05-11 00:59:27,995 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u 成功，判断为txt格式，响应时间: 0.60 秒
+2026-05-11 00:59:28,878 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 成功，判断为txt格式，响应时间: 0.88 秒
+2026-05-11 00:59:29,616 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u 成功，判断为txt格式，响应时间: 0.74 秒
+2026-05-11 00:59:30,007 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u 成功，判断为txt格式，响应时间: 0.39 秒
+2026-05-11 00:59:30,051 - INFO - url: https://live.zbds.top/tv/iptv6.txt 成功，判断为txt格式，响应时间: 0.04 秒
+2026-05-11 00:59:30,051 - INFO - url: https://live.zbds.top/tv/iptv6.txt 成功，包含频道分类: 更新时间
+2026-05-11 00:59:30,465 - INFO - url: http://xhztv.top/new.txt 成功，判断为txt格式，响应时间: 0.41 秒
+2026-05-11 00:59:30,476 - INFO - url: http://xhztv.top/new.txt 成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2026-05-11 00:59:31,117 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt 成功，判断为txt格式，响应时间: 0.64 秒
+2026-05-11 00:59:32,061 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 成功，判断为txt格式，响应时间: 0.94 秒
+2026-05-11 00:59:32,296 - INFO - url: https://live.fanmingming.cn/tv/m3u/ipv6.m3u 成功，判断为m3u格式，响应时间: 0.23 秒
+2026-05-11 00:59:32,856 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 成功，判断为txt格式，响应时间: 0.56 秒
+2026-05-11 00:59:32,856 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 成功，包含频道分类: 更新时间
+2026-05-11 00:59:33,089 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 成功，判断为m3u格式，响应时间: 0.23 秒
+2026-05-11 00:59:33,983 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt 成功，判断为txt格式，响应时间: 0.89 秒
+2026-05-11 00:59:34,693 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 成功，判断为txt格式，响应时间: 0.71 秒
+2026-05-11 00:59:35,638 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 成功，判断为m3u格式，响应时间: 0.94 秒
+2026-05-11 00:59:36,360 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8 成功，判断为txt格式，响应时间: 0.72 秒
+2026-05-11 00:59:41,615 - ERROR - url: https://tv.youdu.fan:666/live/ 失败❌, Error: HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: /live/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f4c44eea050>, 'Connection to tv.youdu.fan timed out. (connect timeout=5)'))
+2026-05-11 00:59:41,728 - INFO - url: https://m3u.ibert.me/txt/o_cn.txt 成功，判断为txt格式，响应时间: 0.11 秒
+2026-05-11 00:59:41,729 - INFO - url: https://m3u.ibert.me/txt/o_cn.txt 成功，包含频道分类: Religious, News, Undefined, Kids, Education;Science, General, Sports, Documentary, Education, Entertainment, Movies, Animation;Kids, Business, Lifestyle, Education;Lifestyle;Science, Comedy, Culture, Kids;Lifestyle, Culture;Education, Outdoor, General;News, Shop, Weather, Family, Science, Legislative
+2026-05-11 00:59:41,789 - INFO - url: https://m3u.ibert.me/txt/j_iptv.txt 成功，判断为txt格式，响应时间: 0.06 秒
+2026-05-11 00:59:42,366 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt 成功，判断为txt格式，响应时间: 0.58 秒
+2026-05-11 00:59:43,214 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt 成功，判断为txt格式，响应时间: 0.85 秒
+2026-05-11 00:59:43,934 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u 成功，判断为txt格式，响应时间: 0.72 秒
+2026-05-11 00:59:44,847 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u 成功，判断为txt格式，响应时间: 0.91 秒
+2026-05-11 00:59:45,561 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u 成功，判断为txt格式，响应时间: 0.71 秒
+2026-05-11 00:59:46,149 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 成功，判断为txt格式，响应时间: 0.59 秒
+2026-05-11 00:59:46,930 - INFO - url: https://iptv.b2og.com/txt/fmml_ipv6.txt 成功，判断为txt格式，响应时间: 0.78 秒
+2026-05-11 00:59:46,930 - INFO - url: https://iptv.b2og.com/txt/fmml_ipv6.txt 成功，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
+2026-05-11 00:59:47,317 - ERROR - url: http://xhztv.top/zbc.txt 失败❌, Error: 404 Client Error: Not Found for url: http://xhztv.top/zbc.txt
+2026-05-11 00:59:47,657 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output_simple.txt 成功，判断为txt格式，响应时间: 0.34 秒
+2026-05-11 00:59:48,389 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/黑龙江PLTV移动CDN版.txt 成功，判断为txt格式，响应时间: 0.73 秒
+2026-05-11 00:59:49,275 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt 成功，判断为txt格式，响应时间: 0.89 秒
+2026-05-11 00:59:50,020 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u 成功，判断为txt格式，响应时间: 0.74 秒
+2026-05-11 00:59:50,107 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 成功，判断为txt格式，响应时间: 0.09 秒
+2026-05-11 00:59:50,109 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 音乐频道, 春晚频道, 直播中国, 更新时间
